@@ -1,4 +1,4 @@
-# Data Analytics Projects
+# Data Analytics Tasks
 
 Excel and Tableau analysis tasks completed for the Introduction to Data Analytics course in 2025.
 
