@@ -1,0 +1,11 @@
+1. Download and study the given dataset below
+
+hotel_bookings.csv
+
+2.Data Cleaning (Identify and correct any errors in the dataset (e.g., misspellings, formatting issues). if any.
+
+3.Analyze the data to answer specific questions (e.g., Which product sold the most?, etc). You make your own questions that will lead you to have or form an insight.
+
+4. Use the data to create a compelling chart or graph that highlights an interesting trend or pattern. 
+
+5. Based on the data you've gathered what is your findings and conclusion? 
